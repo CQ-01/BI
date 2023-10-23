@@ -1,0 +1,5 @@
+## Deep Learning in NGS
+### Abstract
+NGS기술은 그 중요성으로 인해 분석방법과 처리에 대한 수요가 늘어나고 있다.
+이는 variant calling, metagenomic 분류와 양, 유전적 특징 탐색, 다운스트림 분석 등 의/생물학적 해답을 내기 위함이다
+전통적인 방법 외에 Machine Learning기술, 특히 인공신경망(ANN)을 활용하는 Deep Learning기술이 해당 분야에서 큰 주목을 받고 있다.
